@@ -2,5 +2,4 @@
 
 this is my first repository
 <br>
-author
-cuda
+author-cuda
